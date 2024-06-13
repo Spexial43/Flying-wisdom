@@ -1,0 +1,421 @@
+{
+  "tableData": [
+    {
+      "id": "2140",
+      "uname": "里斯",
+      "name": "王琦",
+      "cate_password": "wangyuhao123456",
+      "header": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+      "cate_affirm": "wangyuhao123456",
+      "role": "前端开发工程师",
+      "radio1": "1",
+      "state": "正常"
+    },
+    {
+      "id": "ccd1",
+      "uname": "spexial",
+      "name": "王绎龙",
+      "cate_password": "123123",
+      "header": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+      "cate_affirm": "123123",
+      "role": "后端开发工程师",
+      "radio1": "1",
+      "state": "锁定"
+    },
+    {
+      "id": "05bd",
+      "uname": "下下",
+      "name": "春夏",
+      "cate_password": "123123",
+      "header": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+      "cate_affirm": "123123",
+      "role": "前端开发工程师",
+      "radio1": "1",
+      "state": "锁定"
+    },
+    {
+      "id": "e55b",
+      "uname": "李林",
+      "name": "李林",
+      "cate_password": "123412",
+      "header": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+      "cate_affirm": "123412",
+      "role": "前端开发工程师",
+      "radio1": "1",
+      "state": "正常"
+    }
+  ],
+  "tableList": [
+    {
+      "name": "王恒",
+      "state": "启用",
+      "lastlogin": "2024-6-5 18:00",
+      "id": "a5d9"
+    },
+    {
+      "name": "梦东",
+      "state": "禁止",
+      "lastlogin": "2024-6-6 18:00",
+      "id": "0440"
+    }
+  ],
+  "logList": [
+    {
+      "uname": "Tom",
+      "IP": "223.86.129.106",
+      "link": "/adminapi/sys/config/website",
+      "ask": "POST",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "38b3"
+    },
+    {
+      "uname": "spexial",
+      "IP": "223.106.109.101",
+      "link": "/adminapi/sys/config/config",
+      "ask": "POST",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "a17c"
+    },
+    {
+      "uname": "dam",
+      "IP": "993.26.829.306",
+      "link": "/adminapi/sys/info/login",
+      "ask": "GET",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "d925"
+    },
+    {
+      "uname": "Tom",
+      "IP": "223.86.129.106",
+      "link": "/adminapi/sys/config/website",
+      "ask": "GET",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "d60d"
+    },
+    {
+      "uname": "nacy",
+      "IP": "223.86.129.106",
+      "link": "/adminapi/yysl/website",
+      "ask": "put",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "73e4"
+    },
+    {
+      "uname": "jery",
+      "IP": "200.86.1129.1106",
+      "link": "/adminapi/stem/website",
+      "ask": "POST",
+      "lastlogin": "2024-6-2 18:00",
+      "state": "启用",
+      "id": "c054"
+    }
+  ],
+  "storageList": [
+    {
+      "storageMode": "本地存储",
+      "state": "正常",
+      "set": "设置",
+      "id": "263f"
+    },
+    {
+      "storageMode": "阿里云存储",
+      "state": "正常",
+      "set": "设置",
+      "id": "979c"
+    },
+    {
+      "storageMode": "腾讯云存储",
+      "state": "正常",
+      "set": "设置",
+      "id": "7155"
+    },
+    {
+      "storageMode": "网易存储",
+      "state": "正常",
+      "set": "设置",
+      "id": "a0b7"
+    },
+    {
+      "storageMode": "七牛云存储",
+      "state": "正常",
+      "set": "设置",
+      "id": "744b"
+    }
+  ],
+  "lineChartData": {
+    "xAxis": [
+      "2024-06-01",
+      "2024-06-02",
+      "2024-06-03",
+      "2024-06-04",
+      "2024-06-05",
+      "2024-06-06",
+      "2024-06-07"
+    ],
+    "series": [
+      5,
+      20,
+      36,
+      10,
+      10,
+      20
+    ]
+  },
+  "pieChartData": {
+    "series": [
+      {
+        "value": 1048,
+        "name": "标准套餐"
+      },
+      {
+        "value": 735,
+        "name": "会员卡套餐"
+      },
+      {
+        "value": 580,
+        "name": "蜗牛旅行社"
+      },
+      {
+        "value": 484,
+        "name": "cms应用"
+      },
+      {
+        "value": 300,
+        "name": "全套餐"
+      },
+      {
+        "value": 200,
+        "name": "上门服务套餐"
+      },
+      {
+        "value": 121,
+        "name": "pxx-上门服务套餐"
+      },
+      {
+        "value": 1121,
+        "name": "商城"
+      }
+    ]
+  },
+  "siteList": [
+    {
+      "id": "6984",
+      "SiteName": "1",
+      "SiteMeal": "会员卡套餐",
+      "SiteIntendant": "123",
+      "DomainName": "1",
+      "TimeValue": "2024-06-12T04:13:10.000Z",
+      "state": "正常"
+    },
+    {
+      "id": "38f9",
+      "SiteName": "美团",
+      "SiteMeal": "会员卡套餐",
+      "SiteIntendant": "123",
+      "DomainName": "11.22.334.11",
+      "TimeValue": "2024-06-19T16:00:00.000Z",
+      "state": "已停止"
+    }
+  ],
+  "login": {
+    "id": "ea30",
+    "name": "admin",
+    "password": "123456",
+    "Token": "whfdsjdikwjdscbiuqsdhiw89dsahdjkhdjkhskjahduih1uih2jk3huigwhsauidgjkg1iug12379dahdhqjhw198hsac1"
+  },
+  "setList": [
+    {
+      "id": "d743",
+      "siteName": "",
+      "siteKeywords": "",
+      "siteDescription": "",
+      "contactPhone": "",
+      "imgUrl": "",
+      "imgUrl2": "",
+      "imgUrl3": "",
+      "imgUrl4": ""
+    },
+    {
+      "id": "a54f",
+      "siteName": "京东",
+      "siteKeywords": "京东",
+      "siteDescription": "1",
+      "contactPhone": "111111",
+      "imgUrl": "blob:http://127.0.0.1:5173/590c1bb1-aa16-4597-922d-9a709bd54b89",
+      "imgUrl2": "blob:http://127.0.0.1:5173/e93a450d-cd82-4a7a-a33b-694c0b429f81",
+      "imgUrl3": "blob:http://127.0.0.1:5173/d63d28dc-0342-42e0-8e69-8808ec78fff8",
+      "imgUrl4": "blob:http://127.0.0.1:5173/c2c34a07-b707-42e4-8ae6-5bd89122fd3d"
+    }
+  ],
+  "copyrightList": [
+    {
+      "id": "4d17",
+      "companyName": "1",
+      "copyrightLink": "1",
+      "copyrightInfo": "1",
+      "ICP": "1",
+      "Provider": "1",
+      "PoliceLink": "1",
+      "imgUrl": "blob:http://127.0.0.1:5173/a338a960-9403-4ffd-ab46-6895d2ebc585"
+    }
+  ],
+  "menuData": [
+    {
+      "path": "/",
+      "name": "Home",
+      "label": "首页",
+      "icon": "diannao",
+      "id": "c6f3"
+    },
+    {
+      "path": "/set",
+      "name": "Set",
+      "label": "配置",
+      "icon": "shezhi",
+      "id": "11c7"
+    },
+    {
+      "path": "/site",
+      "name": "Site",
+      "label": "站点",
+      "icon": "zhandian",
+      "id": "dc41"
+    },
+    {
+      "path": "/use",
+      "name": "Use",
+      "label": "应用",
+      "icon": "yingyongchengxu-xianxing",
+      "id": "0b55"
+    },
+    {
+      "path": "/exploit",
+      "name": "Exploit",
+      "label": "开发",
+      "icon": "ruanjiankaifabao",
+      "id": "0155"
+    },
+    {
+      "path": "/project",
+      "name": "Project",
+      "label": "项目",
+      "icon": "xiangmu",
+      "id": "8d61"
+    }
+  ],
+  "siteUser": [
+    {
+      "header": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+      "userName": "zip",
+      "name": "王浩",
+      "number": 3,
+      "lastLogin": "2024-6-9 18:00",
+      "lastIP": "117.122.40.100",
+      "operation": "详情",
+      "id": "3e7c"
+    }
+  ],
+  "setMeal": [
+    {
+      "name": "标准套餐",
+      "packageApp": "商城系统",
+      "packagePlugins": "会员重置",
+      "creationTime": "2024-06-06 21:37:27",
+      "id": "92c4"
+    }
+  ],
+  "SetNav": [
+    {
+      "index": "1",
+      "path": "/set",
+      "name": "网站设置",
+      "children": [
+        {
+          "index": "1-1",
+          "path": "/set",
+          "name": "基础设置"
+        },
+        {
+          "index": "1-2",
+          "path": "/set/copyrightsetting",
+          "name": "版权设置"
+        },
+        {
+          "index": "1-3",
+          "path": "/set/website",
+          "name": "网站"
+        }
+      ],
+      "id": "f8c2"
+    },
+    {
+      "index": "2",
+      "name": "权限设置",
+      "children": [
+        {
+          "index": "2-1",
+          "path": "/set/manager",
+          "name": "管理员"
+        },
+        {
+          "index": "2-2",
+          "path": "/set/role",
+          "name": "管理员角色"
+        },
+        {
+          "index": "2-3",
+          "path": "/set/log",
+          "name": "操作日志"
+        }
+      ],
+      "id": "2bb5"
+    },
+    {
+      "index": "3",
+      "path": "/set/storingsettings",
+      "name": "存储设置",
+      "id": "ede4"
+    },
+    {
+      "index": "4",
+      "path": "/set/loginsettings",
+      "name": "登陆设置",
+      "id": "334d"
+    },
+    {
+      "index": "5",
+      "path": "/set/wechat",
+      "name": "微信开发平台",
+      "id": "a54b"
+    },
+    {
+      "index": "6",
+      "path": "/set/miniprogram",
+      "name": "小程序平台",
+      "id": "b25b"
+    },
+    {
+      "index": "7",
+      "path": "/set/material",
+      "name": "素材管理",
+      "id": "809c"
+    },
+    {
+      "index": "8",
+      "path": "/set/map",
+      "name": "地图设置",
+      "id": "8b19"
+    },
+    {
+      "index": "9",
+      "path": "/set/allocation",
+      "name": "布局设置",
+      "id": "2a42"
+    }
+  ]
+}
